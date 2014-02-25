@@ -21,6 +21,7 @@ Or install it yourself as:
 ## Usage
 
 on aplication.js
+
 		//= require jtable/jquery.jtable
 
 There are four themes that we can choose basic, jqueryui, lightcoler and metro, if we want to implement metro blud
