@@ -25,12 +25,15 @@ on aplication.js
 
 There are four themes that we can choose basic, jqueryui, lightcoler and metro, if we want to implement metro blud
 on aplication.css:
+
     *= require jtable/themes/metro/jtable_metro_base
 
 if basic:
+
 		*= require jtable/themes/metro/jtable_basic_base
 
 if jqueryui:
+
 		*= require jtable/themes/metro/jtable_jqueryui
 
 for the details find it on [reference](http://www.jtable.org/ApiReference/)		
