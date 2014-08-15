@@ -1,6 +1,7 @@
 /*
     jTable localization file for 'Bahasa (Indonesian)' language.
     Author: Heribertus Kristianto
+    Author: Willy Sudiarto Raharjo
 */
 (function ($) {
 
@@ -10,21 +11,21 @@
         noDataAvailable: 'Data tidak tersedia',
         addNewRecord: 'Tambah Data Baru',
         editRecord: 'Ubah data',
-        areYouSure: 'Apakah anda yakin?',
-        deleteConfirmation: 'Data akan dihapus, apakah anda yakin?',
+        areYouSure: 'Apakah Anda yakin?',
+        deleteConfirmation: 'Data akan dihapus, apakah Anda yakin?',
         save: 'Simpan',
         saving: 'Menyimpan...',
         cancel: 'Batal',
         deleteText: 'Hapus',
         deleting: 'Menghapus...',
-        error: 'Error',
+        error: 'Kesalahan',
         close: 'Tutup',
         cannotLoadOptionsFor: 'Tidak dapat membaca opsi untuk kolom {0}',
-        pagingInfo: 'Menampilkan {0}-{1} of {2}',
-        canNotDeletedRecords: 'Gagal menghapus {0} of {1} data!',
-        deleteProggress: 'Menghapus {0} of {1} data, memproses...',
+        pagingInfo: 'Menampilkan {0}-{1} dari {2}',
+        canNotDeletedRecords: 'Gagal menghapus {0} dari {1} data!',
+        deleteProggress: 'Menghapus {0} dari {1} data, memproses...',
         pageSizeChangeLabel: 'Jumlah data',
-        gotoPageLabel: 'Maju ke halaman'
+        gotoPageLabel: 'Ke halaman'
     });
 
 })(jQuery);

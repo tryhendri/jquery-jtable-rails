@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["tryhendri"]
   spec.email         = ["hendri.firmana@gmail.com"]
   spec.description   = %q{Asset package jquery-jtable for rails +3.1 }
-  spec.summary       = %q{jquery-jtable for rails +3.1}
+  spec.summary       = %q{jquery-jtable for rails +3.1, jtable version 2.4.0}
   spec.homepage      = "https://github.com/tryhendri/jquery-jtable-rails"
 
   spec.files         = `git ls-files`.split($/)
